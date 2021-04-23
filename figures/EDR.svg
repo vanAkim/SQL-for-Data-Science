@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="516.88379"
+   height="259.92209"
+   overflow="hidden"
+   version="1.1"
+   id="svg93"
+   sodipodi:docname="EDR.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   inkscape:export-filename="C:\Users\Akim van Eersel\Jupyter_Projects\SQL-for-Data-Science-Capstone-Project\figures\EDR.png"
+   inkscape:export-xdpi="598"
+   inkscape:export-ydpi="598">
+  <metadata
+     id="metadata97">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview95"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.9828125"
+     inkscape:cx="585"
+     inkscape:cy="99.9221"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g91" />
+  <defs
+     id="defs5">
+    <clipPath
+       id="clip0">
+      <rect
+         x="0"
+         y="0"
+         width="1280"
+         height="720"
+         id="rect2" />
+    </clipPath>
+  </defs>
+  <g
+     clip-path="url(#clip0)"
+     id="g91"
+     transform="translate(-55,-260.0779)">
+    <path
+       d="m 55,294.53445 c 0,-9.54666 7.739462,-17.2863 17.286537,-17.2863 H 279.28139 c 9.54666,0 17.2863,7.73964 17.2863,17.2863 V 502.7137 c 0,9.54666 -7.73964,17.2863 -17.2863,17.2863 H 72.286537 C 62.739462,520 55,512.26036 55,502.7137 Z"
+       fill="#262626"
+       fill-rule="evenodd"
+       id="path9"
+       style="stroke-width:0.592078" />
+    <text
+       fill="#ffffff"
+       font-family="'Fira Code', 'Fira Code_MSFontService', sans-serif"
+       font-weight="500"
+       font-size="25.4593px"
+       id="text37"
+       x="65.521935"
+       y="310.40451"
+       style="stroke-width:0.592078">USERS<tspan
+   font-weight="300"
+   font-size="12.4336px"
+   x="207.91661"
+   y="338.82422"
+   id="tspan11"
+   style="stroke-width:0.350556">created_at</tspan><tspan
+   font-weight="300"
+   font-size="12.4336px"
+   x="200.12073"
+   y="354.21826"
+   id="tspan13"
+   style="stroke-width:0.350556">description</tspan><tspan
+   font-weight="300"
+   font-size="12.4336px"
+   x="223.5078"
+   y="369.61227"
+   id="tspan15"
+   style="stroke-width:0.350556">location</tspan><tspan
+   font-weight="300"
+   font-size="12.4336px"
+   x="200.12073"
+   y="384.41422"
+   id="tspan17"
+   style="stroke-width:0.350556">screen_</tspan><tspan
+   font-weight="300"
+   font-size="12.4336px"
+   x="254.69075"
+   y="384.41422"
+   id="tspan19"
+   style="stroke-width:0.350556">name</tspan><tspan
+   fill="#8faadc"
+   font-weight="300"
+   font-size="12.4336px"
+   x="270.28192"
+   y="399.80823"
+   id="tspan21"
+   style="stroke-width:0.350556">id</tspan><tspan
+   font-weight="300"
+   font-size="12.4336px"
+   x="98.776978"
+   y="414.61017"
+   id="tspan23"
+   style="stroke-width:0.350556">profile_background_color</tspan><tspan
+   font-weight="300"
+   font-size="12.4336px"
+   x="145.5513"
+   y="430.00418"
+   id="tspan25"
+   style="stroke-width:0.350556">profile_link_color</tspan><tspan
+   font-weight="300"
+   font-size="12.4336px"
+   x="67.5942"
+   y="445.39822"
+   id="tspan27"
+   style="stroke-width:0.350556">profile_sidebar_border_color</tspan><tspan
+   font-weight="300"
+   font-size="12.4336px"
+   x="83.185562"
+   y="460.20016"
+   id="tspan29"
+   style="stroke-width:0.350556">profile_sidebar_fill_color</tspan><tspan
+   font-weight="300"
+   font-size="12.4336px"
+   x="145.5513"
+   y="475.59418"
+   id="tspan31"
+   style="stroke-width:0.350556">profile_text_color</tspan><tspan
+   font-weight="300"
+   font-size="12.4336px"
+   x="176.73366"
+   y="490.39612"
+   id="tspan33"
+   style="stroke-width:0.350556">statuses_count</tspan><tspan
+   font-weight="300"
+   font-size="12.4336px"
+   x="246.89487"
+   y="505.79013"
+   id="tspan35"
+   style="stroke-width:0.350556">state</tspan></text>
+    <path
+       d="m 450.50789,268.7635 c 0,-4.79689 3.88876,-8.6856 8.68578,-8.6856 h 104.00436 c 4.79701,0 8.68578,3.88871 8.68578,8.6856 v 105.1887 c 0,4.79701 -3.88877,8.68578 -8.68578,8.68578 H 459.19367 c -4.79702,0 -8.68578,-3.88877 -8.68578,-8.68578 z"
+       fill="#262626"
+       fill-rule="evenodd"
+       id="path39"
+       style="stroke-width:0.592078" />
+    <text
+       fill="#ffffff"
+       font-family="'Fira Code', 'Fira Code_MSFontService', sans-serif"
+       font-weight="500"
+       font-size="25.4593px"
+       id="text53"
+       x="458.91656"
+       y="286.12933"
+       style="stroke-width:0.592078">TWEETS<tspan
+   font-weight="300"
+   font-size="12.4336px"
+   x="485.85611"
+   y="314.54904"
+   id="tspan41"
+   style="stroke-width:0.350556">created_at</tspan><tspan
+   fill="#8faadc"
+   font-weight="300"
+   font-size="12.4336px"
+   x="548.22144"
+   y="329.94305"
+   id="tspan43"
+   style="stroke-width:0.350556">id</tspan><tspan
+   font-weight="300"
+   font-size="12.4336px"
+   x="478.06039"
+   y="345.3371"
+   id="tspan45"
+   style="stroke-width:0.350556">screen_</tspan><tspan
+   font-weight="300"
+   font-size="12.4336px"
+   x="532.63025"
+   y="345.3371"
+   id="tspan47"
+   style="stroke-width:0.350556">name</tspan><tspan
+   font-weight="300"
+   font-size="12.4336px"
+   x="509.24316"
+   y="360.13904"
+   id="tspan49"
+   style="stroke-width:0.350556">user_id</tspan><tspan
+   font-weight="300"
+   font-size="12.4336px"
+   x="532.63025"
+   y="375.53305"
+   id="tspan51"
+   style="stroke-width:0.350556">text</tspan></text>
+    <path
+       d="M 296.56769,321.65398 H 450.54815"
+       stroke="#8faadc"
+       stroke-width="3.55247"
+       stroke-miterlimit="8"
+       fill="none"
+       fill-rule="evenodd"
+       id="path55" />
+    <path
+       d="m 315.51418,299.74711 v 43.30633"
+       stroke="#8faadc"
+       stroke-width="3.55247"
+       stroke-miterlimit="8"
+       fill="none"
+       fill-rule="evenodd"
+       id="path57" />
+    <path
+       d="m 326.76365,299.74711 v 43.30633"
+       stroke="#8faadc"
+       stroke-width="3.55247"
+       stroke-miterlimit="8"
+       fill="none"
+       fill-rule="evenodd"
+       id="path59" />
+    <path
+       d="m 450.54815,300.33918 -36.74878,21.17383"
+       stroke="#8faadc"
+       stroke-width="3.55247"
+       stroke-miterlimit="8"
+       fill="none"
+       fill-rule="evenodd"
+       id="path61" />
+    <path
+       d="m 413.79907,299.74711 v 43.30633"
+       stroke="#8faadc"
+       stroke-width="3.55247"
+       stroke-miterlimit="8"
+       fill="none"
+       fill-rule="evenodd"
+       id="path63" />
+    <path
+       d="M 450.56769,343.30685 414.39115,321.65398"
+       stroke="#8faadc"
+       stroke-width="3.55247"
+       stroke-miterlimit="8"
+       fill="none"
+       fill-rule="evenodd"
+       id="path65" />
+    <text
+       fill="#8faadc"
+       font-family="'Fira Code', 'Fira Code_MSFontService', sans-serif"
+       font-weight="500"
+       font-size="14.2099px"
+       id="text67"
+       x="343.29504"
+       y="288.49762"
+       style="stroke-width:0.592078">user_id</text>
+    <path
+       d="m 450.50789,413.10097 c 0,-4.07113 3.30083,-7.37196 7.37195,-7.37196 h 106.63201 c 4.07113,0 7.37196,3.30083 7.37196,7.37196 v 88.2776 c 0,4.07112 -3.30083,7.37195 -7.37196,7.37195 H 457.87984 c -4.07112,0 -7.37195,-3.30083 -7.37195,-7.37195 z"
+       fill="#262626"
+       fill-rule="evenodd"
+       id="path69"
+       style="stroke-width:0.592078" />
+    <text
+       fill="#ffffff"
+       font-family="'Fira Code', 'Fira Code_MSFontService', sans-serif"
+       font-weight="500"
+       font-size="25.4593px"
+       id="text77"
+       x="458.52579"
+       y="437.10913"
+       style="stroke-width:0.592078">STATE<tspan
+   fill="#8faadc"
+   font-weight="300"
+   font-size="12.4336px"
+   x="525.2334"
+   y="465.52884"
+   id="tspan71"
+   style="stroke-width:0.350556">state</tspan><tspan
+   font-weight="300"
+   font-size="12.4336px"
+   x="486.25476"
+   y="480.92288"
+   id="tspan73"
+   style="stroke-width:0.350556">population</tspan><tspan
+   font-weight="300"
+   font-size="12.4336px"
+   x="486.25476"
+   y="496.31689"
+   id="tspan75"
+   style="stroke-width:0.350556">percentage</tspan></text>
+    <path
+       d="M 296.56769,457.23977 H 450.54815"
+       stroke="#8faadc"
+       stroke-width="3.55247"
+       stroke-miterlimit="8"
+       fill="none"
+       fill-rule="evenodd"
+       id="path79" />
+    <path
+       d="m 416.75946,435.33289 v 43.30634"
+       stroke="#8faadc"
+       stroke-width="3.55247"
+       stroke-miterlimit="8"
+       fill="none"
+       fill-rule="evenodd"
+       id="path81" />
+    <path
+       d="m 428.00893,435.33289 v 43.30634"
+       stroke="#8faadc"
+       stroke-width="3.55247"
+       stroke-miterlimit="8"
+       fill="none"
+       fill-rule="evenodd"
+       id="path83" />
+    <text
+       fill="#8faadc"
+       font-family="'Fira Code', 'Fira Code_MSFontService', sans-serif"
+       font-weight="500"
+       font-size="14.2099px"
+       id="text85"
+       x="351.47284"
+       y="428.22797"
+       style="stroke-width:0.592078">state</text>
+    <path
+       d="m 316.69833,435.33289 v 43.30634"
+       stroke="#8faadc"
+       stroke-width="3.55247"
+       stroke-miterlimit="8"
+       fill="none"
+       fill-rule="evenodd"
+       id="path87" />
+    <path
+       d="m 327.94781,435.33289 v 43.30634"
+       stroke="#8faadc"
+       stroke-width="3.55247"
+       stroke-miterlimit="8"
+       fill="none"
+       fill-rule="evenodd"
+       id="path89" />
+  </g>
+</svg>
